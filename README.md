@@ -1,5 +1,3 @@
 # statistiques-optimisation
-Code written for the course on statistics and optimisation
-
-
-this edit was edited online as a test. enjoy.
+These are the R codes written as part of the course on statistics and
+optimization, unige, 2015.
